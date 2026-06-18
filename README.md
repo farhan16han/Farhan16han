@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**farhan16han/Farhan16han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 💻 Interested in:<br>- Web Development<br>- Information Systems<br>- Computer Vision<br>- UI/UX Design<br><br>🔹 Curious about new technologies<br>🔹 Enjoy building web applications<br>🔹 Interested in UI/UX and Computer Vision<br>🔹 Always learning something new
 
 
@@ -32,11 +25,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=farhan16han&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
